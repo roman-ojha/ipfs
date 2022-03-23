@@ -1,0 +1,2 @@
+-> when we will upload file in ipfs gateway then that file will store on ipfs node cache memory
+-> when we will pin that file then garbage collector can't be able to remove the file from cache memory

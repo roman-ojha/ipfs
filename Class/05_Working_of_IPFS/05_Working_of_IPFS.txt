@@ -1,0 +1,5 @@
+*) What is IPFS NODE
+    -> the machine that runs IPFS S/W to store and retrieve files from the IPFS network is called the IPFS node.
+
+*) Working of IPFS:
+    -> https://youtu.be/5LTvO-kCiic?list=PLgPmWS2dQHW_inuGtUY2VbNV4jJ3Kewu6
