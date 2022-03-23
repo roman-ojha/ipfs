@@ -1,0 +1,13 @@
+*) IPFS:
+    -> Content Addressing
+    -> No one control it
+    -> Efficient
+    -> Data is persistent
+    -> Cannot go down
+
+*) HTTP:
+    -> Location Addressing
+    -> controlled by the location owner
+    -> Not Efficient
+    -> Data is not Persistent
+    -> Can go down
