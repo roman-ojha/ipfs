@@ -1,0 +1,14 @@
+*) What is IPFS?
+    -> IPFS(InterPlanetary File System) is a peer to peer, decentralized and distributed filesystem.
+    -> NOTE: this is not blockchain but a filesystem
+    -> IPFS uses DHT(distributed has table) and Merkle DAG(directed acyclic graph) data structure
+    -> It uses a protocol similar to BitTorrent to decide how to move data around the network
+    -> It uses content Addressing rather than Location Addressing
+
+*) Location Addressing
+    -> Location Addressing work on location based
+
+*) Content Addressing
+    -> on Content Addressing it will provide the hashing value of that content
+    -> This has 64 hexadecimal characters. Each character is of 4 bits.
+    -> So in total it has 64*4 bit i.e 256 bits
