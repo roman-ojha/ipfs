@@ -1,0 +1,1 @@
+-> What we will going to do is we will upload image to IPFS and we will store reference of those image on to blockchain

@@ -1,0 +1,4 @@
+-> To store file for Dapps
+    -> we can't store file on ethereum blockchain because it will cost higher ether
+    -> we can't store file on server as well because it we will store file on server then that application became centralized application
+    -> IPFS if help full in that case when we can't store file in blockchain and can't store file in server
